@@ -1,7 +1,8 @@
 <!--
---- Readme.md Snippet without images Start ---
+&lt;--- Readme.md Snippet without images Start ---&gt;
 ## Tech Stack
 csoto09/node is built on the following main stack:
+
 - [Chartio](https://chartio.com) – Business Intelligence
 - [Coveralls](https://coveralls.io/) – Code Coverage
 - [Jest](http://facebook.github.io/jest/) – Javascript Testing Framework
@@ -68,11 +69,13 @@ csoto09/node is built on the following main stack:
 - [Docker](https://www.docker.com/) – Virtual Machine Platforms & Containers
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet without images End ---
 
---- Readme.md Snippet with images Start ---
+&lt;--- Readme.md Snippet without images End ---&gt;
+
+&lt;--- Readme.md Snippet with images Start ---&gt;
 ## Tech Stack
 csoto09/node is built on the following main stack:
+
 - <img width='25' height='25' src='https://img.stackshare.io/service/9/TtrFaQ3j_400x400.png' alt='Chartio'/> [Chartio](https://chartio.com) – Business Intelligence
 - <img width='25' height='25' src='https://img.stackshare.io/service/680/a43e4a04cb9f778842de43f95db59a14.png' alt='Coveralls'/> [Coveralls](https://coveralls.io/) – Code Coverage
 - <img width='25' height='25' src='https://img.stackshare.io/service/830/jest.png' alt='Jest'/> [Jest](http://facebook.github.io/jest/) – Javascript Testing Framework
@@ -139,14 +142,15 @@ csoto09/node is built on the following main stack:
 - <img width='25' height='25' src='https://img.stackshare.io/service/586/n4u37v9t_400x400.png' alt='Docker'/> [Docker](https://www.docker.com/) – Virtual Machine Platforms & Containers
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet with images End ---
+
+&lt;--- Readme.md Snippet with images End ---&gt;
 -->
 <div align="center">
 
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [csoto09/node](https://github.com/csoto09/node)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|455<br/>Tools used|11/17/23 <br/>Report generated|
+|459<br/>Tools used|01/05/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -785,9 +789,9 @@ Full tech stack [here](/techstack.md)
 </table>
 
 
-## <img src='https://img.stackshare.io/group.svg' /> Open source packages (381)</h2>
+## <img src='https://img.stackshare.io/group.svg' /> Open source packages (385)</h2>
 
-## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (381)
+## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (385)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
@@ -882,6 +886,7 @@ Full tech stack [here](/techstack.md)
 |[caniuse-lite](https://www.npmjs.com/caniuse-lite)|v1.0.30001400|09/27/22|Node.js GitHub Bot |CC-BY-4.0|N/A|
 |[chai-as-promised](https://www.npmjs.com/chai-as-promised)|v7.1.1|03/07/22|Michaël Zasso |WTFPL|N/A|
 |[chai-string](https://www.npmjs.com/chai-string)|v1.5.0|03/07/22|Michaël Zasso |MIT|N/A|
+|[chalk](https://www.npmjs.com/chalk)|v2.4.1|12/09/20|Ruy Adorno |MIT|N/A|
 |[cheerio](https://www.npmjs.com/cheerio)|v0.22.0|04/02/17|Rich Trott |MIT|N/A|
 |[circular-json](https://www.npmjs.com/circular-json)|v0.5.9|01/29/22|Node.js GitHub Bot |MIT|N/A|
 |[clang-format](https://www.npmjs.com/clang-format)|v1.8.0|12/15/22|Darshan Sen |Apache-2.0|N/A|
@@ -1005,6 +1010,7 @@ Full tech stack [here](/techstack.md)
 |[has](https://www.npmjs.com/has)|v1.0.3|12/07/22|npm CLI robot |MIT|N/A|
 |[hosted-git-info](https://www.npmjs.com/hosted-git-info)|v6.1.1|12/07/22|npm CLI robot |ISC|N/A|
 |[https-proxy-agent](https://www.npmjs.com/https-proxy-agent)|v5.0.0|06/25/22|npm CLI robot |MIT|N/A|
+|[husky](https://www.npmjs.com/husky)|v8.0.2|12/09/22|npm CLI robot |MIT|N/A|
 |[hyperquest](https://www.npmjs.com/hyperquest)|v2.1.3|12/07/22|npm CLI robot |MIT|N/A|
 |[iconv](https://www.npmjs.com/iconv)|v2.3.5|10/02/20|Myles Borins |ISC|N/A|
 |[iconv-lite](https://www.npmjs.com/iconv-lite)|v0.4.24|10/02/20|Myles Borins |MIT|N/A|
@@ -1039,6 +1045,7 @@ Full tech stack [here](/techstack.md)
 |[karma-sourcemap-loader](https://www.npmjs.com/karma-sourcemap-loader)|v0.3.6|01/28/21|Ruy Adorno |MIT|N/A|
 |[karma-typescript](https://www.npmjs.com/karma-typescript)|v5.5.3|12/14/22|Node.js GitHub Bot |MIT|N/A|
 |[karma-webpack](https://www.npmjs.com/karma-webpack)|v4.0.2|01/28/21|Ruy Adorno |MIT|N/A|
+|[lint-staged](https://www.npmjs.com/lint-staged)|v5.0.0|12/09/20|Ruy Adorno |MIT|N/A|
 |[load-grunt-tasks](https://www.npmjs.com/load-grunt-tasks)|v0.6.0|03/30/21|Luigi Pinca |MIT|N/A|
 |[lodash.clonedeep](https://www.npmjs.com/lodash.clonedeep)|v4.5.0|11/04/20|Myles Borins |MIT|N/A|
 |[lodash.defaultsdeep](https://www.npmjs.com/lodash.defaultsdeep)|v4.6.1|11/30/21|Rich Trott |MIT|N/A|
@@ -1046,7 +1053,7 @@ Full tech stack [here](/techstack.md)
 |[lolex](https://www.npmjs.com/lolex)|v2.1.2|09/09/21|npm team |BSD-3-Clause|N/A|
 |[lru-cache](https://www.npmjs.com/lru-cache)|v6.0.0|04/14/22|ops+robot@npmjs.com |ISC|N/A|
 |[markdownlint-cli](https://www.npmjs.com/markdownlint-cli)|v0.31.1|10/09/22|Node.js GitHub Bot |MIT|N/A|
-|[marked](https://www.npmjs.com/marked)|v4.0.8|07/17/22|Node.js GitHub Bot |MIT|[CVE-2022-21680](https://github.com/advisories/GHSA-rrrm-qjm4-v8hf) (High)<br/>[CVE-2022-21681](https://github.com/advisories/GHSA-5v2h-r2cx-5xgj) (High)|
+|[marked](https://www.npmjs.com/marked)|v4.0.8|07/17/22|Node.js GitHub Bot |MIT|[CVE-2022-21681](https://github.com/advisories/GHSA-5v2h-r2cx-5xgj) (High)<br/>[CVE-2022-21680](https://github.com/advisories/GHSA-rrrm-qjm4-v8hf) (High)|
 |[matcha](https://www.npmjs.com/matcha)|v0.7.0|04/16/21|Ruy Adorno |MIT|N/A|
 |[merge-stream](https://www.npmjs.com/merge-stream)|v2.0.0|10/09/22|Node.js GitHub Bot |MIT|N/A|
 |[minimatch](https://www.npmjs.com/minimatch)|v3.0.4|12/09/22|npm CLI robot |ISC|[CVE-2022-3517](https://github.com/advisories/GHSA-f8q6-p94x-37v3) (High)|
@@ -1121,6 +1128,7 @@ Full tech stack [here](/techstack.md)
 |[run-parallel](https://www.npmjs.com/run-parallel)|v1.1.9|08/08/22|Node.js GitHub Bot |MIT|N/A|
 |[safe-buffer](https://www.npmjs.com/safe-buffer)|v5.1.2|12/09/20|Ruy Adorno |MIT|N/A|
 |[safe-publish-latest](https://www.npmjs.com/safe-publish-latest)|v2.0.0|02/07/22|npm-robot |MIT|N/A|
+|[semantic-release](https://www.npmjs.com/semantic-release)|v19.0.5|10/30/22|Node.js GitHub Bot |MIT|N/A|
 |[shelljs](https://www.npmjs.com/shelljs)|v0.8.4|02/28/21|Luigi Pinca |BSD-3-Clause|[CVE-2022-0144](https://github.com/advisories/GHSA-4rq4-32rv-6wp6) (High)<br/>[](https://github.com/advisories/GHSA-64g7-mvw6-v9qj) (Moderate)|
 |[should](https://www.npmjs.com/should)|v5.0.1|03/27/15|Forrest L Norvell |MIT|N/A|
 |[sinon-chai](https://www.npmjs.com/sinon-chai)|v3.7.0|01/18/22|Rich Trott |BSD-2-Clause,WTFPL|N/A|
