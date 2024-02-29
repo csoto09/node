@@ -3,70 +3,70 @@
 ## Tech Stack
 csoto09/node is built on the following main stack:
 
-- [Chartio](https://chartio.com) – Business Intelligence
-- [Coveralls](https://coveralls.io/) – Code Coverage
-- [Jest](http://facebook.github.io/jest/) – Javascript Testing Framework
-- [Jasmine](http://jasmine.github.io/) – Javascript Testing Framework
-- [Mocha](http://mochajs.org/) – Javascript Testing Framework
-- [gulp](http://gulpjs.com/) – JS Build Tools / JS Task Runners
-- [Grunt](http://gruntjs.com/) – JS Build Tools / JS Task Runners
-- [Browserify](http://browserify.org/) – Front End Package Manager
-- [RequireJS](http://requirejs.org/) – Front End Package Manager
-- [Ruby](https://www.ruby-lang.org) – Languages
-- [Python](https://www.python.org) – Languages
-- [Node.js](http://nodejs.org/) – Frameworks (Full Stack)
-- [.NET](http://www.microsoft.com/net/) – Frameworks (Full Stack)
-- [C#](http://csharp.net) – Languages
-- [React](https://reactjs.org/) – Javascript UI Libraries
-- [Perl](http://www.perl.org/) – Languages
-- [C++](http://www.cplusplus.com/) – Languages
+- [Assembly Language](https://en.wikipedia.org/wiki/Assembly_language) – Languages
 - [C lang](http://en.wikipedia.org/wiki/C_(programming_language)) – Languages
+- [C#](http://csharp.net) – Languages
+- [C++](http://www.cplusplus.com/) – Languages
 - [CoffeeScript](http://coffeescript.org/) – Languages
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
-- [R Language](http://www.r-project.org/) – Languages
-- [pre-commit](http://jish.github.io/pre-commit/) – Git Tools
-- [Karma](http://karma-runner.github.io/) – Browser Testing
-- [Eclipse](https://www.eclipse.org/) – Integrated Development Environment
-- [Visual Studio](http://msdn.microsoft.com/en-us/vstudio/aa718325.aspx) – Integrated Development Environment
-- [TypeScript](http://www.typescriptlang.org) – Languages
-- [Webpack](http://webpack.js.org) – JS Build Tools / JS Task Runners
-- [Chai](http://chaijs.com/) – Javascript Testing Framework
-- [JSHint](http://www.jshint.com/about/) – Code Review
 - [Jinja](https://palletsprojects.com/p/jinja/) – Templating Languages & Extensions
+- [LiveScript](http://livescript.net/) – Languages
+- [Perl](http://www.perl.org/) – Languages
+- [Python](https://www.python.org) – Languages
+- [R Language](http://www.r-project.org/) – Languages
+- [Ruby](https://www.ruby-lang.org) – Languages
+- [TypeScript](http://www.typescriptlang.org) – Languages
+- [.NET](http://www.microsoft.com/net/) – Frameworks (Full Stack)
+- [Node.js](http://nodejs.org/) – Frameworks (Full Stack)
+- [Protobuf](https://developers.google.com/protocol-buffers/) – Serialization Frameworks
+- [React](https://reactjs.org/) – Javascript UI Libraries
+- [ServiceStack](https://servicestack.net/) – Frameworks (Full Stack)
+- [ws](https://github.com/websockets/ws) – Realtime Backend / API
+- [Airtap](https://github.com/airtap/airtap) – Browser Testing
+- [Babel](http://babeljs.io/) – JavaScript Compilers
+- [Browserify](http://browserify.org/) – Front End Package Manager
 - [CMake](http://www.cmake.org/) – Java Build Tools
-- [Lodash](https://lodash.com) – Javascript Utilities & Libraries
+- [Chai](http://chaijs.com/) – Javascript Testing Framework
 - [CodeMirror](http://codemirror.net/) – Text Editor
 - [Codecov](https://codecov.io/) – Code Coverage
-- [Babel](http://babeljs.io/) – JavaScript Compilers
-- [ServiceStack](https://servicestack.net/) – Frameworks (Full Stack)
-- [Zuul](https://github.com/Netflix/zuul) – Microservices Tools
-- [Hyper](https://hyper.sh/) – Containers as a Service
-- [ESLint](http://eslint.org/) – Code Review
-- [SinonJS](http://sinonjs.org/) – Javascript Testing Framework
-- [Ubuntu](http://www.ubuntu.com/) – Operating Systems
-- [jsdoc](http://usejsdoc.org/) – Documentation as a Service & Tools
-- [Protobuf](https://developers.google.com/protocol-buffers/) – Serialization Frameworks
-- [rollup](http://rollupjs.org/) – JS Build Tools / JS Task Runners
-- [pytest](http://pytest.org/latest/) – Testing Frameworks
-- [Shell](https://en.wikipedia.org/wiki/Shell_script) – Shells
-- [flake8](https://github.com/PyCQA/flake8) – Code Review
-- [Assembly Language](https://en.wikipedia.org/wiki/Assembly_language) – Languages
-- [LiveScript](http://livescript.net/) – Languages
-- [TSLint](https://github.com/palantir/tslint) – Code Review
-- [Yarn](https://yarnpkg.com/) – Front End Package Manager
-- [Lerna](https://lerna.js.org/) – Javascript Utilities & Libraries
-- [React Navigation](https://reactnavigation.org/) – Cross-Platform Mobile Tools
-- [highlight.js](https://highlightjs.org/) – Text Editor
-- [Prettier](https://prettier.io/) – Code Review
-- [jsdom](https://github.com/jsdom/jsdom) – Headless Browsers
-- [Airtap](https://github.com/airtap/airtap) – Browser Testing
-- [Firefox](https://www.mozilla.org/en-US/firefox/) – Web Browser
-- [VuePress](https://vuepress.vuejs.org/) – Static Site Generators
-- [ws](https://github.com/websockets/ws) – Realtime Backend / API
-- [GitHub Actions](https://github.com/features/actions) – Continuous Integration
-- [zx](https://github.com/google/zx) – Bash Scripts
-- [Travis CI](http://travis-ci.com/) – Continuous Integration
+- [Coveralls](https://coveralls.io/) – Code Coverage
 - [Docker](https://www.docker.com/) – Virtual Machine Platforms & Containers
+- [ESLint](http://eslint.org/) – Code Review
+- [Eclipse](https://www.eclipse.org/) – Integrated Development Environment
+- [GitHub Actions](https://github.com/features/actions) – Continuous Integration
+- [Grunt](http://gruntjs.com/) – JS Build Tools / JS Task Runners
+- [Hyper](https://hyper.sh/) – Containers as a Service
+- [JSHint](http://www.jshint.com/about/) – Code Review
+- [Jasmine](http://jasmine.github.io/) – Javascript Testing Framework
+- [Jest](http://facebook.github.io/jest/) – Javascript Testing Framework
+- [Karma](http://karma-runner.github.io/) – Browser Testing
+- [Mocha](http://mochajs.org/) – Javascript Testing Framework
+- [Prettier](https://prettier.io/) – Code Review
+- [RequireJS](http://requirejs.org/) – Front End Package Manager
+- [SinonJS](http://sinonjs.org/) – Javascript Testing Framework
+- [TSLint](https://github.com/palantir/tslint) – Code Review
+- [Travis CI](http://travis-ci.com/) – Continuous Integration
+- [Visual Studio](http://msdn.microsoft.com/en-us/vstudio/aa718325.aspx) – Integrated Development Environment
+- [Webpack](http://webpack.js.org) – JS Build Tools / JS Task Runners
+- [Yarn](https://yarnpkg.com/) – Front End Package Manager
+- [Zuul](https://github.com/Netflix/zuul) – Microservices Tools
+- [flake8](https://github.com/PyCQA/flake8) – Code Review
+- [gulp](http://gulpjs.com/) – JS Build Tools / JS Task Runners
+- [highlight.js](https://highlightjs.org/) – Text Editor
+- [jsdom](https://github.com/jsdom/jsdom) – Headless Browsers
+- [pre-commit](http://jish.github.io/pre-commit/) – Git Tools
+- [pytest](http://pytest.org/latest/) – Testing Frameworks
+- [rollup](http://rollupjs.org/) – JS Build Tools / JS Task Runners
+- [Chartio](https://chartio.com) – Business Intelligence
+- [Firefox](https://www.mozilla.org/en-US/firefox/) – Web Browser
+- [Lerna](https://lerna.js.org/) – Javascript Utilities & Libraries
+- [Lodash](https://lodash.com) – Javascript Utilities & Libraries
+- [React Navigation](https://reactnavigation.org/) – Cross-Platform Mobile Tools
+- [Shell](https://en.wikipedia.org/wiki/Shell_script) – Shells
+- [Ubuntu](http://www.ubuntu.com/) – Operating Systems
+- [VuePress](https://vuepress.vuejs.org/) – Static Site Generators
+- [jsdoc](http://usejsdoc.org/) – Documentation as a Service & Tools
+- [zx](https://github.com/google/zx) – Bash Scripts
 
 Full tech stack [here](/techstack.md)
 
@@ -76,70 +76,70 @@ Full tech stack [here](/techstack.md)
 ## Tech Stack
 csoto09/node is built on the following main stack:
 
-- <img width='25' height='25' src='https://img.stackshare.io/service/9/TtrFaQ3j_400x400.png' alt='Chartio'/> [Chartio](https://chartio.com) – Business Intelligence
-- <img width='25' height='25' src='https://img.stackshare.io/service/680/a43e4a04cb9f778842de43f95db59a14.png' alt='Coveralls'/> [Coveralls](https://coveralls.io/) – Code Coverage
-- <img width='25' height='25' src='https://img.stackshare.io/service/830/jest.png' alt='Jest'/> [Jest](http://facebook.github.io/jest/) – Javascript Testing Framework
-- <img width='25' height='25' src='https://img.stackshare.io/service/831/7c0b595409af531b9cdeb07f8c513e8b.png' alt='Jasmine'/> [Jasmine](http://jasmine.github.io/) – Javascript Testing Framework
-- <img width='25' height='25' src='https://img.stackshare.io/service/832/mocha.png' alt='Mocha'/> [Mocha](http://mochajs.org/) – Javascript Testing Framework
-- <img width='25' height='25' src='https://img.stackshare.io/service/844/iruTC031.png' alt='gulp'/> [gulp](http://gulpjs.com/) – JS Build Tools / JS Task Runners
-- <img width='25' height='25' src='https://img.stackshare.io/service/845/falgg2jybmhgk16y62lr.png' alt='Grunt'/> [Grunt](http://gruntjs.com/) – JS Build Tools / JS Task Runners
-- <img width='25' height='25' src='https://img.stackshare.io/service/849/9esmqty2.png' alt='Browserify'/> [Browserify](http://browserify.org/) – Front End Package Manager
-- <img width='25' height='25' src='https://img.stackshare.io/service/852/1781835.png' alt='RequireJS'/> [RequireJS](http://requirejs.org/) – Front End Package Manager
-- <img width='25' height='25' src='https://img.stackshare.io/service/989/ruby.png' alt='Ruby'/> [Ruby](https://www.ruby-lang.org) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/993/pUBY5pVj.png' alt='Python'/> [Python](https://www.python.org) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/1011/n1JRsFeB_400x400.png' alt='Node.js'/> [Node.js](http://nodejs.org/) – Frameworks (Full Stack)
-- <img width='25' height='25' src='https://img.stackshare.io/service/1014/IoPy1dce_400x400.png' alt='.NET'/> [.NET](http://www.microsoft.com/net/) – Frameworks (Full Stack)
-- <img width='25' height='25' src='https://img.stackshare.io/service/1015/1200px-C_Sharp_wordmark.svg.png' alt='C#'/> [C#](http://csharp.net) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/1020/OYIaJ1KK.png' alt='React'/> [React](https://reactjs.org/) – Javascript UI Libraries
-- <img width='25' height='25' src='https://img.stackshare.io/service/1048/perl.png' alt='Perl'/> [Perl](http://www.perl.org/) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/1049/cplusplus.png' alt='C++'/> [C++](http://www.cplusplus.com/) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/4934/default_71f18bbdc61fb88cefb66415bb55dc6f1e60e5ec.png' alt='Assembly Language'/> [Assembly Language](https://en.wikipedia.org/wiki/Assembly_language) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/no-img-open-source.png' alt='C lang'/> [C lang](http://en.wikipedia.org/wiki/C_(programming_language)) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/1015/1200px-C_Sharp_wordmark.svg.png' alt='C#'/> [C#](http://csharp.net) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/1049/cplusplus.png' alt='C++'/> [C++](http://www.cplusplus.com/) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/1178/slQydAMv.png' alt='CoffeeScript'/> [CoffeeScript](http://coffeescript.org/) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/1209/javascript.jpeg' alt='JavaScript'/> [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/1213/r-logo.png' alt='R Language'/> [R Language](http://www.r-project.org/) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/no-img-open-source.png' alt='pre-commit'/> [pre-commit](http://jish.github.io/pre-commit/) – Git Tools
-- <img width='25' height='25' src='https://img.stackshare.io/service/1420/TidYGd6a.png' alt='Karma'/> [Karma](http://karma-runner.github.io/) – Browser Testing
-- <img width='25' height='25' src='https://img.stackshare.io/service/1446/8cyY6D_m.png' alt='Eclipse'/> [Eclipse](https://www.eclipse.org/) – Integrated Development Environment
-- <img width='25' height='25' src='https://img.stackshare.io/service/1451/SR2hUhQN.png' alt='Visual Studio'/> [Visual Studio](http://msdn.microsoft.com/en-us/vstudio/aa718325.aspx) – Integrated Development Environment
-- <img width='25' height='25' src='https://img.stackshare.io/service/1612/bynNY5dJ.jpg' alt='TypeScript'/> [TypeScript](http://www.typescriptlang.org) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/1682/IMG_4636.PNG' alt='Webpack'/> [Webpack](http://webpack.js.org) – JS Build Tools / JS Task Runners
-- <img width='25' height='25' src='https://img.stackshare.io/service/1725/chai.png' alt='Chai'/> [Chai](http://chaijs.com/) – Javascript Testing Framework
-- <img width='25' height='25' src='https://img.stackshare.io/service/1945/mzh2bRes_400x400.png' alt='JSHint'/> [JSHint](http://www.jshint.com/about/) – Code Review
 - <img width='25' height='25' src='https://img.stackshare.io/service/2303/New_Project__20_.png' alt='Jinja'/> [Jinja](https://palletsprojects.com/p/jinja/) – Templating Languages & Extensions
+- <img width='25' height='25' src='https://img.stackshare.io/service/5404/New_Project.jpg' alt='LiveScript'/> [LiveScript](http://livescript.net/) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/1048/perl.png' alt='Perl'/> [Perl](http://www.perl.org/) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/993/pUBY5pVj.png' alt='Python'/> [Python](https://www.python.org) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/1213/r-logo.png' alt='R Language'/> [R Language](http://www.r-project.org/) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/989/ruby.png' alt='Ruby'/> [Ruby](https://www.ruby-lang.org) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/1612/bynNY5dJ.jpg' alt='TypeScript'/> [TypeScript](http://www.typescriptlang.org) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/1014/IoPy1dce_400x400.png' alt='.NET'/> [.NET](http://www.microsoft.com/net/) – Frameworks (Full Stack)
+- <img width='25' height='25' src='https://img.stackshare.io/service/1011/n1JRsFeB_400x400.png' alt='Node.js'/> [Node.js](http://nodejs.org/) – Frameworks (Full Stack)
+- <img width='25' height='25' src='https://img.stackshare.io/service/4393/ma2jqJKH_400x400.png' alt='Protobuf'/> [Protobuf](https://developers.google.com/protocol-buffers/) – Serialization Frameworks
+- <img width='25' height='25' src='https://img.stackshare.io/service/1020/OYIaJ1KK.png' alt='React'/> [React](https://reactjs.org/) – Javascript UI Libraries
+- <img width='25' height='25' src='https://img.stackshare.io/service/2773/JuTVEkWX_400x400.jpg' alt='ServiceStack'/> [ServiceStack](https://servicestack.net/) – Frameworks (Full Stack)
+- <img width='25' height='25' src='https://img.stackshare.io/service/11381/no-img-open-source.png' alt='ws'/> [ws](https://github.com/websockets/ws) – Realtime Backend / API
+- <img width='25' height='25' src='https://img.stackshare.io/no-img-open-source.png' alt='Airtap'/> [Airtap](https://github.com/airtap/airtap) – Browser Testing
+- <img width='25' height='25' src='https://img.stackshare.io/service/2739/-1wfGjNw.png' alt='Babel'/> [Babel](http://babeljs.io/) – JavaScript Compilers
+- <img width='25' height='25' src='https://img.stackshare.io/service/849/9esmqty2.png' alt='Browserify'/> [Browserify](http://browserify.org/) – Front End Package Manager
 - <img width='25' height='25' src='https://img.stackshare.io/service/2424/0UlUI_y1_400x400.jpg' alt='CMake'/> [CMake](http://www.cmake.org/) – Java Build Tools
-- <img width='25' height='25' src='https://img.stackshare.io/service/2438/lodash.png' alt='Lodash'/> [Lodash](https://lodash.com) – Javascript Utilities & Libraries
+- <img width='25' height='25' src='https://img.stackshare.io/service/1725/chai.png' alt='Chai'/> [Chai](http://chaijs.com/) – Javascript Testing Framework
 - <img width='25' height='25' src='https://img.stackshare.io/service/2490/E_fCaAi6.png' alt='CodeMirror'/> [CodeMirror](http://codemirror.net/) – Text Editor
 - <img width='25' height='25' src='https://img.stackshare.io/service/2673/Codecov_Mark_Circle_Pink.png' alt='Codecov'/> [Codecov](https://codecov.io/) – Code Coverage
-- <img width='25' height='25' src='https://img.stackshare.io/service/2739/-1wfGjNw.png' alt='Babel'/> [Babel](http://babeljs.io/) – JavaScript Compilers
-- <img width='25' height='25' src='https://img.stackshare.io/service/2773/JuTVEkWX_400x400.jpg' alt='ServiceStack'/> [ServiceStack](https://servicestack.net/) – Frameworks (Full Stack)
-- <img width='25' height='25' src='https://img.stackshare.io/service/2932/zuul.png' alt='Zuul'/> [Zuul](https://github.com/Netflix/zuul) – Microservices Tools
-- <img width='25' height='25' src='https://img.stackshare.io/service/3125/xSVaubUG_400x400.jpg' alt='Hyper'/> [Hyper](https://hyper.sh/) – Containers as a Service
-- <img width='25' height='25' src='https://img.stackshare.io/service/3337/Q4L7Jncy.jpg' alt='ESLint'/> [ESLint](http://eslint.org/) – Code Review
-- <img width='25' height='25' src='https://img.stackshare.io/service/3509/logo.png' alt='SinonJS'/> [SinonJS](http://sinonjs.org/) – Javascript Testing Framework
-- <img width='25' height='25' src='https://img.stackshare.io/service/3511/cof_orange_hex.jpg' alt='Ubuntu'/> [Ubuntu](http://www.ubuntu.com/) – Operating Systems
-- <img width='25' height='25' src='https://img.stackshare.io/service/4047/js-doc.png' alt='jsdoc'/> [jsdoc](http://usejsdoc.org/) – Documentation as a Service & Tools
-- <img width='25' height='25' src='https://img.stackshare.io/service/4393/ma2jqJKH_400x400.png' alt='Protobuf'/> [Protobuf](https://developers.google.com/protocol-buffers/) – Serialization Frameworks
-- <img width='25' height='25' src='https://img.stackshare.io/service/4423/zE8RTn9E_400x400.jpg' alt='rollup'/> [rollup](http://rollupjs.org/) – JS Build Tools / JS Task Runners
-- <img width='25' height='25' src='https://img.stackshare.io/service/4586/Lu99Qe0Z_400x400.png' alt='pytest'/> [pytest](http://pytest.org/latest/) – Testing Frameworks
-- <img width='25' height='25' src='https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png' alt='Shell'/> [Shell](https://en.wikipedia.org/wiki/Shell_script) – Shells
-- <img width='25' height='25' src='https://img.stackshare.io/service/4838/default_c37162891c64eca7fafe782d9c191e409aae1e93.png' alt='flake8'/> [flake8](https://github.com/PyCQA/flake8) – Code Review
-- <img width='25' height='25' src='https://img.stackshare.io/service/4934/default_71f18bbdc61fb88cefb66415bb55dc6f1e60e5ec.png' alt='Assembly Language'/> [Assembly Language](https://en.wikipedia.org/wiki/Assembly_language) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/5404/New_Project.jpg' alt='LiveScript'/> [LiveScript](http://livescript.net/) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/5561/303157.png' alt='TSLint'/> [TSLint](https://github.com/palantir/tslint) – Code Review
-- <img width='25' height='25' src='https://img.stackshare.io/service/5848/44mC-kJ3.jpg' alt='Yarn'/> [Yarn](https://yarnpkg.com/) – Front End Package Manager
-- <img width='25' height='25' src='https://img.stackshare.io/service/6207/OwqAUSQi_400x400.jpg' alt='Lerna'/> [Lerna](https://lerna.js.org/) – Javascript Utilities & Libraries
-- <img width='25' height='25' src='https://img.stackshare.io/service/6422/react-navigation.png' alt='React Navigation'/> [React Navigation](https://reactnavigation.org/) – Cross-Platform Mobile Tools
-- <img width='25' height='25' src='https://img.stackshare.io/service/6888/c17e7d9688d86bd9f9506ec1fbd6d200_400x400.png' alt='highlight.js'/> [highlight.js](https://highlightjs.org/) – Text Editor
-- <img width='25' height='25' src='https://img.stackshare.io/service/7035/default_66f265943abed56bcdbfca1c866a4261b1fbb063.jpg' alt='Prettier'/> [Prettier](https://prettier.io/) – Code Review
-- <img width='25' height='25' src='https://img.stackshare.io/service/7054/preview.jpeg' alt='jsdom'/> [jsdom](https://github.com/jsdom/jsdom) – Headless Browsers
-- <img width='25' height='25' src='https://img.stackshare.io/no-img-open-source.png' alt='Airtap'/> [Airtap](https://github.com/airtap/airtap) – Browser Testing
-- <img width='25' height='25' src='https://img.stackshare.io/service/8705/768px-Firefox_Logo__2017.svg.png' alt='Firefox'/> [Firefox](https://www.mozilla.org/en-US/firefox/) – Web Browser
-- <img width='25' height='25' src='https://img.stackshare.io/service/8863/paeckCWC.png' alt='VuePress'/> [VuePress](https://vuepress.vuejs.org/) – Static Site Generators
-- <img width='25' height='25' src='https://img.stackshare.io/service/11381/no-img-open-source.png' alt='ws'/> [ws](https://github.com/websockets/ws) – Realtime Backend / API
-- <img width='25' height='25' src='https://img.stackshare.io/service/11563/actions.png' alt='GitHub Actions'/> [GitHub Actions](https://github.com/features/actions) – Continuous Integration
-- <img width='25' height='25' src='https://img.stackshare.io/service/25684/default_09d743c2ce3cd5b32e4cae363d05941d9d137dd9.png' alt='zx'/> [zx](https://github.com/google/zx) – Bash Scripts
-- <img width='25' height='25' src='https://img.stackshare.io/service/460/Lu6cGu0z_400x400.png' alt='Travis CI'/> [Travis CI](http://travis-ci.com/) – Continuous Integration
+- <img width='25' height='25' src='https://img.stackshare.io/service/680/a43e4a04cb9f778842de43f95db59a14.png' alt='Coveralls'/> [Coveralls](https://coveralls.io/) – Code Coverage
 - <img width='25' height='25' src='https://img.stackshare.io/service/586/n4u37v9t_400x400.png' alt='Docker'/> [Docker](https://www.docker.com/) – Virtual Machine Platforms & Containers
+- <img width='25' height='25' src='https://img.stackshare.io/service/3337/Q4L7Jncy.jpg' alt='ESLint'/> [ESLint](http://eslint.org/) – Code Review
+- <img width='25' height='25' src='https://img.stackshare.io/service/1446/8cyY6D_m.png' alt='Eclipse'/> [Eclipse](https://www.eclipse.org/) – Integrated Development Environment
+- <img width='25' height='25' src='https://img.stackshare.io/service/11563/actions.png' alt='GitHub Actions'/> [GitHub Actions](https://github.com/features/actions) – Continuous Integration
+- <img width='25' height='25' src='https://img.stackshare.io/service/845/falgg2jybmhgk16y62lr.png' alt='Grunt'/> [Grunt](http://gruntjs.com/) – JS Build Tools / JS Task Runners
+- <img width='25' height='25' src='https://img.stackshare.io/service/3125/xSVaubUG_400x400.jpg' alt='Hyper'/> [Hyper](https://hyper.sh/) – Containers as a Service
+- <img width='25' height='25' src='https://img.stackshare.io/service/1945/mzh2bRes_400x400.png' alt='JSHint'/> [JSHint](http://www.jshint.com/about/) – Code Review
+- <img width='25' height='25' src='https://img.stackshare.io/service/831/7c0b595409af531b9cdeb07f8c513e8b.png' alt='Jasmine'/> [Jasmine](http://jasmine.github.io/) – Javascript Testing Framework
+- <img width='25' height='25' src='https://img.stackshare.io/service/830/jest.png' alt='Jest'/> [Jest](http://facebook.github.io/jest/) – Javascript Testing Framework
+- <img width='25' height='25' src='https://img.stackshare.io/service/1420/TidYGd6a.png' alt='Karma'/> [Karma](http://karma-runner.github.io/) – Browser Testing
+- <img width='25' height='25' src='https://img.stackshare.io/service/832/mocha.png' alt='Mocha'/> [Mocha](http://mochajs.org/) – Javascript Testing Framework
+- <img width='25' height='25' src='https://img.stackshare.io/service/7035/default_66f265943abed56bcdbfca1c866a4261b1fbb063.jpg' alt='Prettier'/> [Prettier](https://prettier.io/) – Code Review
+- <img width='25' height='25' src='https://img.stackshare.io/service/852/1781835.png' alt='RequireJS'/> [RequireJS](http://requirejs.org/) – Front End Package Manager
+- <img width='25' height='25' src='https://img.stackshare.io/service/3509/logo.png' alt='SinonJS'/> [SinonJS](http://sinonjs.org/) – Javascript Testing Framework
+- <img width='25' height='25' src='https://img.stackshare.io/service/5561/303157.png' alt='TSLint'/> [TSLint](https://github.com/palantir/tslint) – Code Review
+- <img width='25' height='25' src='https://img.stackshare.io/service/460/Lu6cGu0z_400x400.png' alt='Travis CI'/> [Travis CI](http://travis-ci.com/) – Continuous Integration
+- <img width='25' height='25' src='https://img.stackshare.io/service/1451/SR2hUhQN.png' alt='Visual Studio'/> [Visual Studio](http://msdn.microsoft.com/en-us/vstudio/aa718325.aspx) – Integrated Development Environment
+- <img width='25' height='25' src='https://img.stackshare.io/service/1682/IMG_4636.PNG' alt='Webpack'/> [Webpack](http://webpack.js.org) – JS Build Tools / JS Task Runners
+- <img width='25' height='25' src='https://img.stackshare.io/service/5848/44mC-kJ3.jpg' alt='Yarn'/> [Yarn](https://yarnpkg.com/) – Front End Package Manager
+- <img width='25' height='25' src='https://img.stackshare.io/service/2932/zuul.png' alt='Zuul'/> [Zuul](https://github.com/Netflix/zuul) – Microservices Tools
+- <img width='25' height='25' src='https://img.stackshare.io/service/4838/default_c37162891c64eca7fafe782d9c191e409aae1e93.png' alt='flake8'/> [flake8](https://github.com/PyCQA/flake8) – Code Review
+- <img width='25' height='25' src='https://img.stackshare.io/service/844/iruTC031.png' alt='gulp'/> [gulp](http://gulpjs.com/) – JS Build Tools / JS Task Runners
+- <img width='25' height='25' src='https://img.stackshare.io/service/6888/c17e7d9688d86bd9f9506ec1fbd6d200_400x400.png' alt='highlight.js'/> [highlight.js](https://highlightjs.org/) – Text Editor
+- <img width='25' height='25' src='https://img.stackshare.io/service/7054/preview.jpeg' alt='jsdom'/> [jsdom](https://github.com/jsdom/jsdom) – Headless Browsers
+- <img width='25' height='25' src='https://img.stackshare.io/no-img-open-source.png' alt='pre-commit'/> [pre-commit](http://jish.github.io/pre-commit/) – Git Tools
+- <img width='25' height='25' src='https://img.stackshare.io/service/4586/Lu99Qe0Z_400x400.png' alt='pytest'/> [pytest](http://pytest.org/latest/) – Testing Frameworks
+- <img width='25' height='25' src='https://img.stackshare.io/service/4423/zE8RTn9E_400x400.jpg' alt='rollup'/> [rollup](http://rollupjs.org/) – JS Build Tools / JS Task Runners
+- <img width='25' height='25' src='https://img.stackshare.io/service/9/TtrFaQ3j_400x400.png' alt='Chartio'/> [Chartio](https://chartio.com) – Business Intelligence
+- <img width='25' height='25' src='https://img.stackshare.io/service/8705/768px-Firefox_Logo__2017.svg.png' alt='Firefox'/> [Firefox](https://www.mozilla.org/en-US/firefox/) – Web Browser
+- <img width='25' height='25' src='https://img.stackshare.io/service/6207/OwqAUSQi_400x400.jpg' alt='Lerna'/> [Lerna](https://lerna.js.org/) – Javascript Utilities & Libraries
+- <img width='25' height='25' src='https://img.stackshare.io/service/2438/lodash.png' alt='Lodash'/> [Lodash](https://lodash.com) – Javascript Utilities & Libraries
+- <img width='25' height='25' src='https://img.stackshare.io/service/6422/react-navigation.png' alt='React Navigation'/> [React Navigation](https://reactnavigation.org/) – Cross-Platform Mobile Tools
+- <img width='25' height='25' src='https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png' alt='Shell'/> [Shell](https://en.wikipedia.org/wiki/Shell_script) – Shells
+- <img width='25' height='25' src='https://img.stackshare.io/service/3511/cof_orange_hex.jpg' alt='Ubuntu'/> [Ubuntu](http://www.ubuntu.com/) – Operating Systems
+- <img width='25' height='25' src='https://img.stackshare.io/service/8863/paeckCWC.png' alt='VuePress'/> [VuePress](https://vuepress.vuejs.org/) – Static Site Generators
+- <img width='25' height='25' src='https://img.stackshare.io/service/4047/js-doc.png' alt='jsdoc'/> [jsdoc](http://usejsdoc.org/) – Documentation as a Service & Tools
+- <img width='25' height='25' src='https://img.stackshare.io/service/25684/default_09d743c2ce3cd5b32e4cae363d05941d9d137dd9.png' alt='zx'/> [zx](https://github.com/google/zx) – Bash Scripts
 
 Full tech stack [here](/techstack.md)
 
@@ -150,7 +150,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [csoto09/node](https://github.com/csoto09/node)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|459<br/>Tools used|01/05/24 <br/>Report generated|
+|459<br/>Tools used|02/29/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -1018,7 +1018,7 @@ Full tech stack [here](/techstack.md)
 |[indent-string](https://www.npmjs.com/indent-string)|v4.0.0|10/02/20|Myles Borins |MIT|N/A|
 |[inherits](https://www.npmjs.com/inherits)|v2.0.3|06/05/14|Timothy J Fontaine |ISC|N/A|
 |[ini](https://www.npmjs.com/ini)|v3.0.0|10/02/20|Myles Borins |ISC|N/A|
-|[ip](https://www.npmjs.com/ip)|v2.0.0|04/21/18|Rebecca Turner |MIT|N/A|
+|[ip](https://www.npmjs.com/ip)|v2.0.0|04/21/18|Rebecca Turner |MIT|[CVE-2023-42282](https://github.com/advisories/GHSA-78xj-cgh5-2h22) (Moderate)|
 |[is-buffer](https://www.npmjs.com/is-buffer)|v1.1.6|12/07/22|npm CLI robot |MIT|N/A|
 |[is-glob](https://www.npmjs.com/is-glob)|v4.0.1|10/10/21|Rich Trott |MIT|N/A|
 |[isarray](https://www.npmjs.com/isarray)|v0.0.1|12/07/22|npm CLI robot |MIT|N/A|
@@ -1081,7 +1081,7 @@ Full tech stack [here](/techstack.md)
 |[path-exists](https://www.npmjs.com/path-exists)|v4.0.0|08/08/22|Node.js GitHub Bot |MIT|N/A|
 |[path-is-absolute](https://www.npmjs.com/path-is-absolute)|v1.0.1|04/28/22|npm-robot |MIT|N/A|
 |[pegjs](https://www.npmjs.com/pegjs)|v0.10.0|03/30/21|Luigi Pinca |MIT|N/A|
-|[pkg](https://www.npmjs.com/pkg)|v4.3.4|10/15/20|Michaël Zasso |MIT|N/A|
+|[pkg](https://www.npmjs.com/pkg)|v4.3.4|10/15/20|Michaël Zasso |MIT|[CVE-2024-24828](https://github.com/advisories/GHSA-22r3-9w55-cj54) (Moderate)|
 |[postcss](https://www.npmjs.com/postcss)|v8.0.0|08/05/22|npm CLI robot |MIT|[CVE-2023-44270](https://github.com/advisories/GHSA-7fh5-64p2-3v2j) (Moderate)<br/>[CVE-2021-23382](https://github.com/advisories/GHSA-566m-qj78-rww5) (Moderate)<br/>[CVE-2021-23368](https://github.com/advisories/GHSA-hwj9-h5mp-3pm3) (Moderate)|
 |[postcss-selector-parser](https://www.npmjs.com/postcss-selector-parser)|v6.0.10|12/07/22|npm CLI robot |MIT|N/A|
 |[prelude-ls](https://www.npmjs.com/prelude-ls)|v1.1.2|03/30/21|Luigi Pinca |MIT|N/A|
