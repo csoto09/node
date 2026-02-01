@@ -33,3 +33,13 @@ bun run build
 # Preview production build
 bun preview
 ```
+
+## Deploy
+
+Deploy to Vercel with one command:
+
+```bash
+bunx vercel
+```
+
+Or connect your GitHub repo at [vercel.com/new](https://vercel.com/new) for automatic deploys on push.
