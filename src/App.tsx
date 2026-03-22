@@ -19,6 +19,27 @@ const UNITS: { value: Unit; label: string }[] = [
   { value: 'dash', label: 'dash' },
 ]
 
+// Conversion rules: [threshold, divisor, targetUnit]
+const CONVERSIONS: Partial<Record<Unit, [number, number, Unit]>> = {
+  tsp: [3, 3, 'tbsp'],
+  tbsp: [16, 16, 'cup'],
+  g: [1000, 1000, 'oz'], // Show oz at 1000g (rough conversion for display)
+  pinch: [8, 8, 'tsp'], // 8 pinches ≈ 1 tsp
+  dash: [8, 8, 'tsp'], // 8 dashes ≈ 1 tsp
+}
+
+function simplifyUnit(amount: number, unit: Unit): { amount: number; unit: Unit } {
+  const conversion = CONVERSIONS[unit]
+  if (!conversion) return { amount, unit }
+
+  const [threshold, divisor, targetUnit] = conversion
+  if (amount >= threshold) {
+    // Recursively simplify in case we can go even higher (e.g., tsp -> tbsp -> cup)
+    return simplifyUnit(amount / divisor, targetUnit)
+  }
+  return { amount, unit }
+}
+
 function parseFraction(value: string): number {
   const trimmed = value.trim()
 
@@ -82,6 +103,7 @@ function App() {
   ])
   const [originalPortions, setOriginalPortions] = useState('1')
   const [desiredPortions, setDesiredPortions] = useState('2')
+  const [simplifyUnits, setSimplifyUnits] = useState(true)
 
   const multiplier = parseFraction(desiredPortions) / parseFraction(originalPortions)
 
@@ -153,6 +175,18 @@ function App() {
               Multiplying by <span className="font-semibold text-amber-600">{formatAmount(multiplier)}x</span>
             </p>
           )}
+
+          <label className="mt-4 flex items-center gap-2 cursor-pointer">
+            <input
+              type="checkbox"
+              checked={simplifyUnits}
+              onChange={(e) => setSimplifyUnits(e.target.checked)}
+              className="w-4 h-4 text-amber-600 border-stone-300 rounded focus:ring-amber-500"
+            />
+            <span className="text-sm text-stone-600">
+              Simplify units <span className="text-stone-400">(3 tsp → 1 tbsp)</span>
+            </span>
+          </label>
         </div>
 
         {/* Ingredients */}
@@ -162,7 +196,10 @@ function App() {
           <div className="space-y-4">
             {ingredients.map((ingredient) => {
               const originalAmount = parseFraction(ingredient.amount)
-              const scaledAmount = originalAmount * multiplier
+              const rawScaled = originalAmount * multiplier
+              const { amount: scaledAmount, unit: displayUnit } = simplifyUnits
+                ? simplifyUnit(rawScaled, ingredient.unit)
+                : { amount: rawScaled, unit: ingredient.unit }
 
               return (
                 <div key={ingredient.id} className="flex items-start gap-3">
@@ -193,10 +230,10 @@ function App() {
                   </div>
 
                   {/* Scaled amount */}
-                  <div className="w-32 text-right">
+                  <div className="w-36 text-right">
                     {originalAmount > 0 && !isNaN(scaledAmount) && isFinite(scaledAmount) ? (
                       <span className="inline-block bg-amber-100 text-amber-800 px-3 py-2 rounded-md font-medium">
-                        {formatAmount(scaledAmount)} {ingredient.unit}
+                        {formatAmount(scaledAmount)} {displayUnit}
                       </span>
                     ) : (
                       <span className="inline-block text-stone-400 px-3 py-2">—</span>
